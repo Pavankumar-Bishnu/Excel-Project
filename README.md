@@ -1,4 +1,5 @@
-# SALES PERFORMANCE - DATA ANALYSIS ( 2018 TO 2020 )
+# 🛒 SALES PERFORMANCE - DATA ANALYSIS ( 2018 TO 2020 )
+Interactive dashboard creation - using EXCEL
 > **Purpose of the data set**       :
 - This is a sales and financial performance dataset containing transaction-level records.
 - It includes details on products, countries, customer segments, and discounts.
@@ -11,7 +12,7 @@
    - Market and segment comparison
    - Pricing and discount strategy analysis
    - Time-series trend analysis
-> **Data Set Used**                  : <a href="https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/Global%20Super%20Store.xlsx"> Click to open </a>
+> **Data Set Used**                  : <a href="https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/Global%20Super%20Store%20(%20CSV%20).csv"> Click to open </a>
 
 ## Data Overviwe                     :
 This dataset ( Global Super Store Data ) includes sales transactions recorded between April **2018 and October 2020**. It captures details related to pricing, discounts, costs, and profitability across various market segments.
@@ -29,9 +30,15 @@ This dataset ( Global Super Store Data ) includes sales transactions recorded be
 - Total Net Sales                    : 187,027,933.60
 - Total Profit                       : 25,437,030.60
 
-![Global Super Store Dashboard](https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/Sales%20Performance%20Dashboard.png)
+![Global Super Store Dashboard](https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/DSBD.png)
 
-## **Final Conclusion:**
+> **Interactivive Dashboard File**   : <a href="https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/Global%20Super%20Store.xlsx"> Click to open </a>
+
+## 🛠️ Tools & Technologies :
+- **Excel / CSV**
+- **Git & GitHub**
+
+## 📌 Final Conclusion :
 Monthly aggregated Gross Sales were computed (2018–2020). Top months (by Gross Sales) 
 
 - 2018-10                            : 17,624,008.0 (highest)
